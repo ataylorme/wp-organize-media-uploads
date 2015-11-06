@@ -1,0 +1,14 @@
+{
+    "name": "ataylorme/wp-organize-media-uploads",
+    "type": "wordpress-plugin",
+    "description": "Organizes media uploads into directories based on file type",
+    "support": {
+        "source": "https://github.com/ataylorme/wp-organize-media-uploads.git"
+    },
+    "authors": [
+        {
+            "name": "Andrew Taylor",
+            "role": "Developer"
+        }
+    ]
+}
