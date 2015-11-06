@@ -3,7 +3,7 @@
  * Plugin Name: WP Organize Media Uploads
  * Description: Organizes media uploads into directories based on file type
  * Author: Andrew Taylor
- * Version: 1.0
+ * Version: 1.0.1
  *
  */
 
