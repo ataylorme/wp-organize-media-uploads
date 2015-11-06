@@ -2,13 +2,19 @@
     "name": "ataylorme/wp-organize-media-uploads",
     "type": "wordpress-plugin",
     "description": "Organizes media uploads into directories based on file type",
+    "license": "GPL-3.0+",
     "support": {
         "source": "https://github.com/ataylorme/wp-organize-media-uploads.git"
     },
     "authors": [
         {
             "name": "Andrew Taylor",
-            "role": "Developer"
+            "role": "Developer",
+            "email":"andrew@ataylor.me",
+            "homepage":"https://www.ataylor.me/"
         }
-    ]
+    ],
+    "require": {
+        "composer/installers": "~1.0"
+    }
 }
